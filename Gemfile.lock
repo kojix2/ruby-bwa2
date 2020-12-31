@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bwa2 (0.1.0)
+    bwa2 (0.0.0.alpha)
 
 GEM
   remote: https://rubygems.org/
